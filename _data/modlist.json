@@ -15,7 +15,7 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.5.55"
+    "version": "1.5.59"
   },
   {
     "author": "RedMattis",
@@ -291,7 +291,7 @@
     "author": "VouLT",
     "name": "Better Pawn Control",
     "steamId": "1541460369",
-    "version": "2.7.4+6418b19aa87ccc573005e303e28c8c5fff3b1f65"
+    "version": "2.7.4+13335c18c5424729d48298958c20a420a57228cd"
   },
   {
     "author": "Falconne",
@@ -390,12 +390,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Vitamin Cera and RedMattis (1.5 update)",
-    "name": "Oops all BUGPARTS 2",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Slime-Senpai",
     "name": "EndlessGrowth",
     "steamId": "2894401734",
@@ -416,12 +410,6 @@
   {
     "author": "RedMattis",
     "name": "Big and Small - Yokai",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RedMattis",
-    "name": "Big and Small - Xeno Insectoid Hive",
     "steamId": null,
     "version": null
   },
@@ -744,6 +732,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Catachat",
+    "name": "Inspiration Tweaks",
+    "steamId": "2117570018",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "nry",
     "name": "Twitch Toolkit",
     "steamId": "3013874066",
@@ -766,12 +760,6 @@
     "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
     "steamId": "3239583412",
     "version": "1.5.0.1"
-  },
-  {
-    "author": "Yanzihko",
-    "name": "Archotech Expanded",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Biscuit",
@@ -810,6 +798,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Yanzihko / ChillGreenBean (Patcher)",
+    "name": "Archotech Expanded Patched",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "LegendaryMinuteman",
     "name": "More Archotech Implants",
     "steamId": null,
@@ -834,10 +828,40 @@
     "version": null
   },
   {
+    "author": "Ykara (Updated for 1.1 by Ogliss)",
+    "name": "Harvest Everything!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.9113.26296"
+  },
+  {
+    "author": "LTS / Edit By ChillGreenBean",
+    "name": "Integrated Implants / Custom Edit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Soareverix",
+    "name": "Infinite Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
     "version": "1.5.10.0"
+  },
+  {
+    "author": "Nova and Company",
+    "name": "RimWorld Together",
+    "steamId": "3005289691",
+    "version": "1.0.0+ca4b21c6be966c3fce2264a121f48740760d5bbf"
   },
   {
     "author": "Krkr",

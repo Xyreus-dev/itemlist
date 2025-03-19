@@ -2953,12 +2953,6 @@
 		"defname": "VFEP_WarcasketGun_UraniumSlugRifle"
 	},
 	{
-		"abr": "zombrella",
-		"price": 3333,
-		"category": "Misc",
-		"defname": "Zombrella"
-	},
-	{
 		"abr": "airwireheadset",
 		"price": 383,
 		"category": "Headgear",
@@ -8761,6 +8755,60 @@
 		"defname": "Alias_DoorMatMedium"
 	},
 	{
+		"abr": "archotechbioadapter",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechBioadapter"
+	},
+	{
+		"abr": "archotechcortex",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechCortex"
+	},
+	{
+		"abr": "archotechjoywire",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechJoywire"
+	},
+	{
+		"abr": "archotechnanoskin",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechNanoskin"
+	},
+	{
+		"abr": "archotechregenerator",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechRegenerator"
+	},
+	{
+		"abr": "archotechsubdermalarmor",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechSubdermalArmor"
+	},
+	{
+		"abr": "cerebralturbocharger",
+		"price": 5333,
+		"category": "Archotech",
+		"defname": "ArchotechCerebralTurbocharger"
+	},
+	{
+		"abr": "adornedbloodyskull",
+		"price": 250,
+		"category": "Ritual Items",
+		"defname": "BEWH_KhorneItem"
+	},
+	{
+		"abr": "ancientgrimoire",
+		"price": 833,
+		"category": "Ritual Items",
+		"defname": "BEWH_TzeentchItem"
+	},
+	{
 		"abr": "archo-analyzer",
 		"price": 24642,
 		"category": "Misc",
@@ -8791,12 +8839,6 @@
 		"defname": "ArchotechInfiniteArchostrandreactor"
 	},
 	{
-		"abr": "archotecharm",
-		"price": 10058,
-		"category": "Archotech",
-		"defname": "YanzArchotechArm"
-	},
-	{
 		"abr": "archotechattofomax",
 		"price": 833333,
 		"category": "Special",
@@ -8807,12 +8849,6 @@
 		"price": 17558,
 		"category": "Power",
 		"defname": "ArchotechBattery"
-	},
-	{
-		"abr": "archotechbioadapter",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "ArchotechBioadapter"
 	},
 	{
 		"abr": "archotechblock",
@@ -8845,24 +8881,6 @@
 		"defname": "ArchotechInfiniteArchocomponentreactor"
 	},
 	{
-		"abr": "archotechcortex",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "ArchotechCortex"
-	},
-	{
-		"abr": "archotechear",
-		"price": 5058,
-		"category": "Archotech",
-		"defname": "YanzArchotechEar"
-	},
-	{
-		"abr": "archotecheye",
-		"price": 5058,
-		"category": "Archotech",
-		"defname": "YanzArchotechEye"
-	},
-	{
 		"abr": "archotechfemtofomax",
 		"price": 833333,
 		"category": "Special",
@@ -8875,70 +8893,10 @@
 		"defname": "ArchotechInfiniteGoldreactor"
 	},
 	{
-		"abr": "archotechheart",
-		"price": 15058,
-		"category": "Archotech",
-		"defname": "YanzArchotechHeart"
-	},
-	{
-		"abr": "archotechjoywire",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "ArchotechJoywire"
-	},
-	{
-		"abr": "archotechkidney",
-		"price": 10058,
-		"category": "Archotech",
-		"defname": "YanzArchotechKidney"
-	},
-	{
-		"abr": "archotechleg",
-		"price": 10058,
-		"category": "Archotech",
-		"defname": "YanzArchotechLeg"
-	},
-	{
-		"abr": "archotechliver",
-		"price": 15058,
-		"category": "Archotech",
-		"defname": "YanzArchotechLiver"
-	},
-	{
-		"abr": "archotechlung",
-		"price": 10058,
-		"category": "Archotech",
-		"defname": "YanzArchotechLung"
-	},
-	{
 		"abr": "archotechmedicine",
 		"price": 167,
 		"category": "Medicine",
 		"defname": "MedicineArchotech"
-	},
-	{
-		"abr": "archotechnanoskin",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "ArchotechNanoskin"
-	},
-	{
-		"abr": "archotechnexus",
-		"price": 91725,
-		"category": "Archotech",
-		"defname": "YanzArchotechNexus"
-	},
-	{
-		"abr": "archotechnose",
-		"price": 5058,
-		"category": "Archotech",
-		"defname": "YanzArchotechNose"
-	},
-	{
-		"abr": "archotechpelvis",
-		"price": 10058,
-		"category": "Archotech",
-		"defname": "YanzArchotechPelvis"
 	},
 	{
 		"abr": "archotechpicofomax",
@@ -8959,12 +8917,6 @@
 		"defname": "ArchotechPsychicEmanator"
 	},
 	{
-		"abr": "archotechregenerator",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "ArchotechRegenerator"
-	},
-	{
 		"abr": "archotechrifle",
 		"price": 33333,
 		"category": "Ranged weapons",
@@ -8977,12 +8929,6 @@
 		"defname": "ArchotechInfiniteSilverreactor"
 	},
 	{
-		"abr": "archotechspine",
-		"price": 15058,
-		"category": "Archotech",
-		"defname": "YanzArchotechSpine"
-	},
-	{
 		"abr": "archotechstation",
 		"price": 24642,
 		"category": "Production",
@@ -8993,18 +8939,6 @@
 		"price": 16667,
 		"category": "Special",
 		"defname": "ArchotechInfiniteSteelreactor"
-	},
-	{
-		"abr": "archotechstomach",
-		"price": 10058,
-		"category": "Archotech",
-		"defname": "YanzArchotechStomach"
-	},
-	{
-		"abr": "archotechsubdermalarmor",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "ArchotechSubdermalArmor"
 	},
 	{
 		"abr": "archotechsupressionrifle",
@@ -9031,10 +8965,124 @@
 		"defname": "Attomachinery"
 	},
 	{
-		"abr": "cerebralturbocharger",
-		"price": 5333,
-		"category": "Archotech",
-		"defname": "ArchotechCerebralTurbocharger"
+		"abr": "blackblood",
+		"price": 5000,
+		"category": "Cybernetics",
+		"defname": "BEWH_BlackBlood"
+	},
+	{
+		"abr": "capturedblankpotential",
+		"price": 1667,
+		"category": "Ritual Items",
+		"defname": "BEWH_PariahItem"
+	},
+	{
+		"abr": "capturedpsychicpotential",
+		"price": 1667,
+		"category": "Ritual Items",
+		"defname": "BEWH_PsykerItem"
+	},
+	{
+		"abr": "cybermantle",
+		"price": 8333,
+		"category": "Cybernetics",
+		"defname": "BEWH_MechanicusAssimilation"
+	},
+	{
+		"abr": "cyberneticarm",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticArm"
+	},
+	{
+		"abr": "cyberneticear",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticEar"
+	},
+	{
+		"abr": "cyberneticeye",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticEye"
+	},
+	{
+		"abr": "cyberneticheart",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticHeart"
+	},
+	{
+		"abr": "cyberneticjaw",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticJaw"
+	},
+	{
+		"abr": "cybernetickidney",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticKidney"
+	},
+	{
+		"abr": "cyberneticleg",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticLeg"
+	},
+	{
+		"abr": "cyberneticliver",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticLiver"
+	},
+	{
+		"abr": "cyberneticlung",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticLung"
+	},
+	{
+		"abr": "cyberneticspine",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticSpine"
+	},
+	{
+		"abr": "cyberneticstomach",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticStomach"
+	},
+	{
+		"abr": "daemonetteclaw",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "BEWH_DaemonetteClaw"
+	},
+	{
+		"abr": "daggeroftzeentch",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "BEWH_PinkHorrorDagger"
+	},
+	{
+		"abr": "dendriteblade",
+		"price": 1833,
+		"category": "Cybernetics",
+		"defname": "BEWH_DendriteBlade"
+	},
+	{
+		"abr": "diseasefilledbrew",
+		"price": 625,
+		"category": "Ritual Items",
+		"defname": "BEWH_NurgleItem"
+	},
+	{
+		"abr": "embeddedauspex",
+		"price": 3333,
+		"category": "Cybernetics",
+		"defname": "BEWH_EmbeddedAuspex"
 	},
 	{
 		"abr": "femtomachinery",
@@ -9042,6 +9090,2568 @@
 		"category": "Archotech Re-Expanded",
 		"defname": "Femtomachinery"
 	},
+	{
+		"abr": "ferriclureimplant",
+		"price": 2500,
+		"category": "Cybernetics",
+		"defname": "BEWH_FerricLureImplant"
+	},
+	{
+		"abr": "geneseedcapsule",
+		"price": 22500,
+		"category": "Manufactured",
+		"defname": "BEWH_GeneseedCapsules"
+	},
+	{
+		"abr": "alkalicoatimplant",
+		"price": 858,
+		"category": "Bionic",
+		"defname": "DeacidifierMembrane"
+	},
+	{
+		"abr": "archotechvoicebox",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "ArchotechVoicebox"
+	},
+	{
+		"abr": "archotechwomb",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "Archowomb"
+	},
+	{
+		"abr": "biochameleondevice",
+		"price": 1975,
+		"category": "Bionic",
+		"defname": "BiochameleonDevice"
+	},
+	{
+		"abr": "bionicfaceplate",
+		"price": 2608,
+		"category": "Bionic",
+		"defname": "LTS_FaceplateArachnid"
+	},
+	{
+		"abr": "bionictail",
+		"price": 2275,
+		"category": "Bionic",
+		"defname": "LTS_BionicTail"
+	},
+	{
+		"abr": "bionicwomb",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "Synthwomb"
+	},
+	{
+		"abr": "bio-tuner",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "BiotunerImplant"
+	},
+	{
+		"abr": "blacksightdevice",
+		"price": 6492,
+		"category": "Bionic",
+		"defname": "BlacksightDevice"
+	},
+	{
+		"abr": "braindetonator",
+		"price": 342,
+		"category": "Prosthetic",
+		"defname": "LTS_BrainDetonator"
+	},
+	{
+		"abr": "brainshocker",
+		"price": 342,
+		"category": "Prosthetic",
+		"defname": "LTS_NeuralStunner"
+	},
+	{
+		"abr": "clawtail",
+		"price": 2275,
+		"category": "Bionic",
+		"defname": "LTS_ManipulationTail"
+	},
+	{
+		"abr": "cranialinsulation",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "CranialInsulation"
+	},
+	{
+		"abr": "cryptosleepadaptor",
+		"price": 533,
+		"category": "Prosthetic",
+		"defname": "CryptoWakeImplant"
+	},
+	{
+		"abr": "deadlifecoil",
+		"price": 875,
+		"category": "Bionic",
+		"defname": "DeadlifeCollar"
+	},
+	{
+		"abr": "deadlifevenomclaw",
+		"price": 383,
+		"category": "Ghoul",
+		"defname": "DeadlifeVenomClaw"
+	},
+	{
+		"abr": "deathrestapparatus",
+		"price": 1842,
+		"category": "Sangophage",
+		"defname": "DeathrestApparatus"
+	},
+	{
+		"abr": "deathrestcapacitor",
+		"price": 1842,
+		"category": "Sangophage",
+		"defname": "DeathrestCapacitor"
+	},
+	{
+		"abr": "dreadheart",
+		"price": 3158,
+		"category": "Bionic",
+		"defname": "Dreadheart"
+	},
+	{
+		"abr": "dreadmeldcore",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "DreadmeldCore"
+	},
+	{
+		"abr": "eltexadornments",
+		"price": 2367,
+		"category": "Bionic",
+		"defname": "EltexAdornments"
+	},
+	{
+		"abr": "firesuppressionsystem",
+		"price": 1383,
+		"category": "Bionic",
+		"defname": "LTS_FireSupressionSystem"
+	},
+	{
+		"abr": "ghoulbioferriteextractor",
+		"price": 1433,
+		"category": "Ghoul",
+		"defname": "GhoulBioferriteExtractor"
+	},
+	{
+		"abr": "ghoulpowerplating",
+		"price": 2700,
+		"category": "Ghoul",
+		"defname": "GhoulPowerPlating"
+	},
+	{
+		"abr": "gourmandtongue",
+		"price": 1383,
+		"category": "Bionic",
+		"defname": "GourmandTongue"
+	},
+	{
+		"abr": "hackingport",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "HackingPortImplant"
+	},
+	{
+		"abr": "hellblade",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "BEWH_Hellblade"
+	},
+	{
+		"abr": "apollyonarchotecharm",
+		"price": 51725,
+		"category": "Archotech",
+		"defname": "BeanzArchotechArm"
+	},
+	{
+		"abr": "apollyonarchotechleg",
+		"price": 69225,
+		"category": "Archotech",
+		"defname": "BeanzArchotechLeg"
+	},
+	{
+		"abr": "apollyonarchotechnexus",
+		"price": 525058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechNexus"
+	},
+	{
+		"abr": "archotecharm",
+		"price": -10,
+		"category": "Archotech",
+		"defname": "YanzArchotechArm"
+	},
+	{
+		"abr": "archotechear",
+		"price": 5058,
+		"category": "Archotech",
+		"defname": "YanzArchotechEar"
+	},
+	{
+		"abr": "archotecheye",
+		"price": -10,
+		"category": "Archotech",
+		"defname": "YanzArchotechEye"
+	},
+	{
+		"abr": "archotechheart",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "YanzArchotechHeart"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechKidney"
+	},
+	{
+		"abr": "archotechleg",
+		"price": -10,
+		"category": "Archotech",
+		"defname": "YanzArchotechLeg"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "YanzArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechLung"
+	},
+	{
+		"abr": "archotechnexus",
+		"price": 91725,
+		"category": "Archotech",
+		"defname": "YanzArchotechNexus"
+	},
+	{
+		"abr": "archotechnose",
+		"price": 5058,
+		"category": "Archotech",
+		"defname": "YanzArchotechNose"
+	},
+	{
+		"abr": "archotechpelvis",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechPelvis"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "YanzArchotechSpine"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechStomach"
+	},
+	{
+		"abr": "apollyonarchotecheye",
+		"price": 49300,
+		"category": "Archotech",
+		"defname": "BeanzArchotechEye"
+	},
+	{
+		"abr": "apollyonarchotechear",
+		"price": 5058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechEar"
+	},
+	{
+		"abr": "apollyonarchotechheart",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechHeart"
+	},
+	{
+		"abr": "apollyonarchotechkidney",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechKidney"
+	},
+	{
+		"abr": "apollyonarchotechliver",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechLiver"
+	},
+	{
+		"abr": "apollyonarchotechlung",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechLung"
+	},
+	{
+		"abr": "apollyonarchotechnose",
+		"price": 5058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechNose"
+	},
+	{
+		"abr": "apollyonarchotechpelvis",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechPelvis"
+	},
+	{
+		"abr": "apollyonarchotechspine",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechSpine"
+	},
+	{
+		"abr": "apollyonarchotechstomach",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechStomach"
+	},
+	{
+		"abr": "apollyon-archo-analyzer",
+		"price": 542267,
+		"category": "Misc",
+		"defname": "ApollyonArchoAnalyzer"
+	},
+	{
+		"abr": "apollyonarchoblade",
+		"price": 833333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_BeanzArchotechBlade"
+	},
+	{
+		"abr": "apollyonarchotechmedicine",
+		"price": 4167,
+		"category": "Medicine",
+		"defname": "ApollyonMedicineArchotech"
+	},
+	{
+		"abr": "archotechrifle",
+		"price": 300000,
+		"category": "Ranged weapons",
+		"defname": "Gun_BeanzArchotechRifle"
+	},
+	{
+		"abr": "archotechsupressionrifle",
+		"price": 16667,
+		"category": "Ranged weapons",
+		"defname": "Gun_BeanzArchotechRifleBlunt"
+	},
+	{
+		"abr": "arm",
+		"price": 333,
+		"category": "Natural",
+		"defname": "Arm"
+	},
+	{
+		"abr": "brain",
+		"price": 1500,
+		"category": "Natural",
+		"defname": "Brain"
+	},
+	{
+		"abr": "ear",
+		"price": 83,
+		"category": "Natural",
+		"defname": "Ear"
+	},
+	{
+		"abr": "eyeball",
+		"price": 333,
+		"category": "Natural",
+		"defname": "Eye"
+	},
+	{
+		"abr": "foot",
+		"price": 167,
+		"category": "Natural",
+		"defname": "Foot"
+	},
+	{
+		"abr": "hand",
+		"price": 167,
+		"category": "Natural",
+		"defname": "Hand"
+	},
+	{
+		"abr": "hemo-fangs",
+		"price": 1842,
+		"category": "Sangophage",
+		"defname": "HemoFangs"
+	},
+	{
+		"abr": "hemogenicactivator",
+		"price": 1842,
+		"category": "Sangophage",
+		"defname": "HemogenicActivator"
+	},
+	{
+		"abr": "hemogenicmicrocompressor",
+		"price": 1842,
+		"category": "Sangophage",
+		"defname": "HemogenicMicrocompressor"
+	},
+	{
+		"abr": "hyper-adrenalinegland",
+		"price": 858,
+		"category": "Bionic",
+		"defname": "HyperAdrenalineGland"
+	},
+	{
+		"abr": "interfaceport",
+		"price": 2500,
+		"category": "Cybernetics",
+		"defname": "BEWH_InterfacePort"
+	},
+	{
+		"abr": "internalclimatecontrol",
+		"price": 667,
+		"category": "Prosthetic",
+		"defname": "InternalClimateControlImplant"
+	},
+	{
+		"abr": "catharsisimplant",
+		"price": 25000,
+		"category": "Hedonism implants",
+		"defname": "CatharsisImplant"
+	},
+	{
+		"abr": "cheaparmorimplant",
+		"price": 833,
+		"category": "Cheap implants",
+		"defname": "II_CheapArmor_Implant"
+	},
+	{
+		"abr": "cheapcoolerimplant",
+		"price": 1417,
+		"category": "Cheap implants",
+		"defname": "II_CheapCooler_Implant"
+	},
+	{
+		"abr": "cheaphealingimplant",
+		"price": 1333,
+		"category": "Cheap implants",
+		"defname": "II_CheapHealing_Implant"
+	},
+	{
+		"abr": "cheapheaterimplant",
+		"price": 1417,
+		"category": "Cheap implants",
+		"defname": "II_CheapHeater_Implant"
+	},
+	{
+		"abr": "cheaphpimplant",
+		"price": 750,
+		"category": "Cheap implants",
+		"defname": "II_CheapHP_Implant"
+	},
+	{
+		"abr": "cheaplearnerimplant",
+		"price": 1083,
+		"category": "Cheap implants",
+		"defname": "II_CheapLearner_Implant"
+	},
+	{
+		"abr": "cheapstrengthmeleeimplant",
+		"price": 667,
+		"category": "Cheap implants",
+		"defname": "II_CheapMelee_Implant"
+	},
+	{
+		"abr": "godcore",
+		"price": -10,
+		"category": "X-tier implants",
+		"defname": "II_GodCore_Implant"
+	},
+	{
+		"abr": "hedoniceliteimplant",
+		"price": 83333,
+		"category": "Hedonism implants",
+		"defname": "HedonicEliteImplant"
+	},
+	{
+		"abr": "internalresevoir",
+		"price": 8333,
+		"category": "Cybernetics",
+		"defname": "BEWH_InternalResevoir"
+	},
+	{
+		"abr": "jaw",
+		"price": 125,
+		"category": "Natural",
+		"defname": "Jaw"
+	},
+	{
+		"abr": "lacto-stimulator",
+		"price": 433,
+		"category": "Prosthetic",
+		"defname": "LactoStimulator"
+	},
+	{
+		"abr": "leg",
+		"price": 333,
+		"category": "Natural",
+		"defname": "Leg"
+	},
+	{
+		"abr": "maglevcoils",
+		"price": 2500,
+		"category": "Cybernetics",
+		"defname": "BEWH_MaglevCoils"
+	},
+	{
+		"abr": "malfunctioninggeniusimplant",
+		"price": 833,
+		"category": "Malfunctioning implants",
+		"defname": "MalfunctioningGeniusImplant"
+	},
+	{
+		"abr": "manipulatormechadendrite",
+		"price": 4167,
+		"category": "Cybernetics",
+		"defname": "BEWH_ManipulatorMechadendrite"
+	},
+	{
+		"abr": "mechadendriteneuralsystem",
+		"price": 8333,
+		"category": "Cybernetics",
+		"defname": "BEWH_MechadendriteNeuralSystem"
+	},
+	{
+		"abr": "mechhivesatelliteuplink",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "MechhiveSatelliteUplink"
+	},
+	{
+		"abr": "mechwomb",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "Mechwomb"
+	},
+	{
+		"abr": "medicae/torturemechadendrite",
+		"price": 4167,
+		"category": "Cybernetics",
+		"defname": "BEWH_MedicaeTortureMechadendrite"
+	},
+	{
+		"abr": "memorydatabank",
+		"price": 1975,
+		"category": "Bionic",
+		"defname": "LTS_MemoryDatabank"
+	},
+	{
+		"abr": "mercenarytierarmorimplant",
+		"price": 2917,
+		"category": "Mercenary-tier implants",
+		"defname": "MercTierArmorImplant"
+	},
+	{
+		"abr": "mercenarytierconvenienceimplant",
+		"price": 4167,
+		"category": "Mercenary-tier implants",
+		"defname": "MercTierConvenienceImplant"
+	},
+	{
+		"abr": "mercenarytierfast-aimingimplant",
+		"price": 3750,
+		"category": "Mercenary-tier implants",
+		"defname": "MercTierFastAimingImplant"
+	},
+	{
+		"abr": "mercenarytierfocusimplant",
+		"price": 3750,
+		"category": "Mercenary-tier implants",
+		"defname": "MercTierFocusImplant"
+	},
+	{
+		"abr": "mercenarytierhealingimplant",
+		"price": 2917,
+		"category": "Mercenary-tier implants",
+		"defname": "MercTierHealingImplant"
+	},
+	{
+		"abr": "mercenarytierimmunityimplant",
+		"price": 2667,
+		"category": "Mercenary-tier implants",
+		"defname": "MercTierImmunityImplant"
+	},
+	{
+		"abr": "mercenarytierresistanceimplant",
+		"price": 4167,
+		"category": "Mercenary-tier implants",
+		"defname": "MercTierResistanceImplant"
+	},
+	{
+		"abr": "mercenarytiersniperimplant",
+		"price": 3750,
+		"category": "Mercenary-tier implants",
+		"defname": "MercTierSniperImplant"
+	},
+	{
+		"abr": "mercenarytiertemperatureimplant",
+		"price": 1750,
+		"category": "Mercenary-tier implants",
+		"defname": "MercTierTemperatureImplant"
+	},
+	{
+		"abr": "mercenarytiervitalityimplant",
+		"price": 2917,
+		"category": "Mercenary-tier implants",
+		"defname": "MercTierVitalityImplant"
+	},
+	{
+		"abr": "metabolicengine",
+		"price": 608,
+		"category": "Ghoul",
+		"defname": "GhoulMetabolicEngine"
+	},
+	{
+		"abr": "metalhorrorsymbiont",
+		"price": 875,
+		"category": "Bionic",
+		"defname": "MetalhorrorSymbiont"
+	},
+	{
+		"abr": "militaryenhancementimplant",
+		"price": 3333,
+		"category": "Military implants",
+		"defname": "MilitaryEnhancementImplant"
+	},
+	{
+		"abr": "militaryheavyarmorimplant",
+		"price": 8333,
+		"category": "Military implants",
+		"defname": "MilitaryHeavyArmorImplant"
+	},
+	{
+		"abr": "militarypiercingimplant",
+		"price": 8333,
+		"category": "Military implants",
+		"defname": "MilitaryPiercingImplant"
+	},
+	{
+		"abr": "militaryquickscopeimplant",
+		"price": 8333,
+		"category": "Military implants",
+		"defname": "MilitaryQuickscopeImplant"
+	},
+	{
+		"abr": "militaryrapid-hitimplant",
+		"price": 8333,
+		"category": "Military implants",
+		"defname": "MilitaryRapidHitImplant"
+	},
+	{
+		"abr": "militarysnipingimplant",
+		"price": 8333,
+		"category": "Military implants",
+		"defname": "MilitarySnipingImplant"
+	},
+	{
+		"abr": "militarystrikingimplant",
+		"price": 8333,
+		"category": "Military implants",
+		"defname": "MilitaryStrikingImplant"
+	},
+	{
+		"abr": "militarysurvivabilityimplant",
+		"price": 5000,
+		"category": "Military implants",
+		"defname": "MilitarySurvivabilityImplant"
+	},
+	{
+		"abr": "militaryversatilityimplant",
+		"price": 25000,
+		"category": "Military implants",
+		"defname": "MilitaryVersatilityImplant"
+	},
+	{
+		"abr": "narthecium",
+		"price": 1508,
+		"category": "Ranged weapons",
+		"defname": "BEWH_Narthecium"
+	},
+	{
+		"abr": "nerveshredderclaw",
+		"price": 383,
+		"category": "Ghoul",
+		"defname": "NerveShredderClaw"
+	},
+	{
+		"abr": "neuralheatsink",
+		"price": 3050,
+		"category": "Bionic",
+		"defname": "NeuralHeatsink"
+	},
+	{
+		"abr": "neuralrecharger",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechNeuralRecharger"
+	},
+	{
+		"abr": "nociosphereemitter",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "NociosphereEmitter"
+	},
+	{
+		"abr": "noctolithsensor",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "NoctolithSensor"
+	},
+	{
+		"abr": "nose",
+		"price": 83,
+		"category": "Natural",
+		"defname": "Nose"
+	},
+	{
+		"abr": "nutrientbar",
+		"price": 8,
+		"category": "Meals",
+		"defname": "SNS_Meal_Nutrient_GenI"
+	},
+	{
+		"abr": "nutrientprocessor",
+		"price": 2417,
+		"category": "Production",
+		"defname": "Table_SNS_NutrientProcessor"
+	},
+	{
+		"abr": "opticalmechadendrite",
+		"price": 4167,
+		"category": "Cybernetics",
+		"defname": "BEWH_OpticalMechadendrite"
+	},
+	{
+		"abr": "painhealing-coreimplant",
+		"price": 167,
+		"category": "Supremacy implants",
+		"defname": "PainHealingCoreImplant"
+	},
+	{
+		"abr": "painintelligence-coreimplant",
+		"price": 167,
+		"category": "Supremacy implants",
+		"defname": "PainIntelligenceCoreImplant"
+	},
+	{
+		"abr": "painmelee-coreimplant",
+		"price": 167,
+		"category": "Supremacy implants",
+		"defname": "PainMeleeCoreImplant"
+	},
+	{
+		"abr": "painresistance-coreimplant",
+		"price": 167,
+		"category": "Supremacy implants",
+		"defname": "PainResistanceCoreImplant"
+	},
+	{
+		"abr": "panacea",
+		"price": 750,
+		"category": "Drugs",
+		"defname": "SNS_Panacea"
+	},
+	{
+		"abr": "patterntransmissionunit",
+		"price": 103583,
+		"category": "Recreation",
+		"defname": "SNS_Television_GenIII"
+	},
+	{
+		"abr": "perditionlightstellarturret",
+		"price": 4033,
+		"category": "Security",
+		"defname": "SNS_Turret_PerditionLightCosmic"
+	},
+	{
+		"abr": "performanceenhancementimplant",
+		"price": 250000,
+		"category": "Overpowered implants",
+		"defname": "PerformanceEnhancementImplant"
+	},
+	{
+		"abr": "picomachinery",
+		"price": 167,
+		"category": "Archotech Re-Expanded",
+		"defname": "Picomachinery"
+	},
+	{
+		"abr": "plaguesword",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "BEWH_Plaguesword"
+	},
+	{
+		"abr": "pleasureimplant",
+		"price": 13333,
+		"category": "Hedonism implants",
+		"defname": "PleasureImplant"
+	},
+	{
+		"abr": "portablecosmicreactorgeneration1",
+		"price": 5667,
+		"category": "Power",
+		"defname": "SNS_Reactor_I_Portable"
+	},
+	{
+		"abr": "portablecosmicreactorgeneration2",
+		"price": 54375,
+		"category": "Power",
+		"defname": "SNS_Reactor_II_Portable"
+	},
+	{
+		"abr": "prestigeplatearmor",
+		"price": 1400,
+		"category": "Armor",
+		"defname": "VPE_Apparel_PlateArmorPrestige"
+	},
+	{
+		"abr": "prestigesubdermalarmour",
+		"price": 5217,
+		"category": "Bionic",
+		"defname": "LTS_PrestigeSubdermalArmour"
+	},
+	{
+		"abr": "production-gradeanimalharvestimplant",
+		"price": 7500,
+		"category": "Production implants",
+		"defname": "ProdTierAnimalHarvestImplant"
+	},
+	{
+		"abr": "production-gradecharmimplant",
+		"price": 5833,
+		"category": "Production implants",
+		"defname": "ProdTierCharmImplant"
+	},
+	{
+		"abr": "production-gradegenerallaborimplant",
+		"price": 5833,
+		"category": "Production implants",
+		"defname": "ProdTierGeneralLaborImplant"
+	},
+	{
+		"abr": "production-gradegeniusimplant",
+		"price": 8333,
+		"category": "Production implants",
+		"defname": "ProdTierGeniusImplant"
+	},
+	{
+		"abr": "production-grademedicalimplant",
+		"price": 8333,
+		"category": "Production implants",
+		"defname": "ProdTierMedicalImplant"
+	},
+	{
+		"abr": "production-graderesearchimplant",
+		"price": 5833,
+		"category": "Production implants",
+		"defname": "ProdTierResearchImplant"
+	},
+	{
+		"abr": "production-gradetradingimplant",
+		"price": 10000,
+		"category": "Production implants",
+		"defname": "ProdTierTradingImplant"
+	},
+	{
+		"abr": "prototypeapathyimplant",
+		"price": 52525,
+		"category": "Prototype implants",
+		"defname": "PrototypeApathyImplant"
+	},
+	{
+		"abr": "prototypeglasscannonimplant",
+		"price": 52525,
+		"category": "Prototype implants",
+		"defname": "PrototypeGlassCannonImplant"
+	},
+	{
+		"abr": "prototypehealingimplant",
+		"price": 52525,
+		"category": "Prototype implants",
+		"defname": "PrototypeHealingImplant"
+	},
+	{
+		"abr": "prototypemind-meldingimplant",
+		"price": 52525,
+		"category": "Prototype implants",
+		"defname": "PrototypeMindMeldingImplant"
+	},
+	{
+		"abr": "prototypespeedrunimplant",
+		"price": 52525,
+		"category": "Prototype implants",
+		"defname": "PrototypeSpeedrunImplant"
+	},
+	{
+		"abr": "prototypetankimplant",
+		"price": 52525,
+		"category": "Prototype implants",
+		"defname": "PrototypeTankImplant"
+	},
+	{
+		"abr": "psychedelicmix",
+		"price": 417,
+		"category": "Ritual Items",
+		"defname": "BEWH_SlaaneshItem"
+	},
+	{
+		"abr": "psychicagonizer",
+		"price": 3158,
+		"category": "Bionic",
+		"defname": "PsychicAgonizer"
+	},
+	{
+		"abr": "psychicbeguiler",
+		"price": 3492,
+		"category": "Bionic",
+		"defname": "PsychicBeguiler"
+	},
+	{
+		"abr": "psychichood",
+		"price": 3000,
+		"category": "Cybernetics",
+		"defname": "BEWH_PsychicHoodImplant"
+	},
+	{
+		"abr": "psychiclevitator",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "PsychicLevitator"
+	},
+	{
+		"abr": "psychicnullifier",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "PsychicNullifier"
+	},
+	{
+		"abr": "psychicreaper",
+		"price": 875,
+		"category": "Bionic",
+		"defname": "LTS_PsychicReaper"
+	},
+	{
+		"abr": "psychicsustainer",
+		"price": 858,
+		"category": "Bionic",
+		"defname": "PsychicSustainer"
+	},
+	{
+		"abr": "psyring",
+		"price": 2000,
+		"category": "Utility",
+		"defname": "VPE_Psyring"
+	},
+	{
+		"abr": "psytrainer(adrenalinerush)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_AdrenalineRush"
+	},
+	{
+		"abr": "psytrainer(age)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Age"
+	},
+	{
+		"abr": "psytrainer(aggressiveheatdump)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_AggressiveHeatDump"
+	},
+	{
+		"abr": "psytrainer(animalallies)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_AnimalAllies"
+	},
+	{
+		"abr": "psytrainer(assassinate)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Assassinate"
+	},
+	{
+		"abr": "psytrainer(balllightning)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BallLightning"
+	},
+	{
+		"abr": "psytrainer(beckon)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Beckon"
+	},
+	{
+		"abr": "psytrainer(bendprobability)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BendProbability"
+	},
+	{
+		"abr": "psytrainer(berserkpulse)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BerserkPulse"
+	},
+	{
+		"abr": "psytrainer(berserk)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Berserk"
+	},
+	{
+		"abr": "psytrainer(bladefocus)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BladeFocus"
+	},
+	{
+		"abr": "psytrainer(blindingpulse)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BlindingPulse"
+	},
+	{
+		"abr": "psytrainer(bliss)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Bliss"
+	},
+	{
+		"abr": "psytrainer(blizzard)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Blizzard"
+	},
+	{
+		"abr": "psytrainer(bolt)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Bolt"
+	},
+	{
+		"abr": "psytrainer(bramblemaze)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BrambleMaze"
+	},
+	{
+		"abr": "psytrainer(breatheflame)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BreatheFlame"
+	},
+	{
+		"abr": "psytrainer(breatheice)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IceBreath"
+	},
+	{
+		"abr": "psytrainer(burden)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Burden"
+	},
+	{
+		"abr": "psytrainer(chainbolt)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ChainBolt"
+	},
+	{
+		"abr": "psytrainer(chaosskip)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ChaosSkip"
+	},
+	{
+		"abr": "psytrainer(chunkskip)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Chunkskip"
+	},
+	{
+		"abr": "psytrainer(coldzone)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ColdZone"
+	},
+	{
+		"abr": "psytrainer(conjureheatpearls)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ConjureHeatPearls"
+	},
+	{
+		"abr": "psytrainer(consumebodies)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ConsumeBodies"
+	},
+	{
+		"abr": "psytrainer(controlledfrenzy)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ControlledFrenzy"
+	},
+	{
+		"abr": "psytrainer(corpsetalk)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Corpsetalk"
+	},
+	{
+		"abr": "psytrainer(craftpsyring)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_CraftPsyRing"
+	},
+	{
+		"abr": "psytrainer(crafttimeskip)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_CraftTimeskip"
+	},
+	{
+		"abr": "psytrainer(cropburst)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_CropBurst"
+	},
+	{
+		"abr": "psytrainer(darkness)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Darkness"
+	},
+	{
+		"abr": "psytrainer(darkvision)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Darkvision"
+	},
+	{
+		"abr": "psytrainer(deathshield)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Deathshield"
+	},
+	{
+		"abr": "psytrainer(decoy)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Decoy"
+	},
+	{
+		"abr": "psytrainer(drainpsyessence)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_DrainPsyessence"
+	},
+	{
+		"abr": "psytrainer(eclipse)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Eclipse"
+	},
+	{
+		"abr": "psytrainer(enchantquality)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_EnchantQuality"
+	},
+	{
+		"abr": "psytrainer(energydump)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_EnergyDump"
+	},
+	{
+		"abr": "psytrainer(enthrall)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Enthrall"
+	},
+	{
+		"abr": "psytrainer(essencetransfer)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_EssenceTransfer"
+	},
+	{
+		"abr": "psytrainer(explosion)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Explosion"
+	},
+	{
+		"abr": "psytrainer(extinguishflames)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_QuenchFlames"
+	},
+	{
+		"abr": "psytrainer(eyeblast)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_EyeBlast"
+	},
+	{
+		"abr": "psytrainer(farskip)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Farskip"
+	},
+	{
+		"abr": "psytrainer(firebeam)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_FireBeam"
+	},
+	{
+		"abr": "psytrainer(fireshield)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_FireShield"
+	},
+	{
+		"abr": "psytrainer(firetornado)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_FlameTornado"
+	},
+	{
+		"abr": "psytrainer(firingfocus)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_FiringFocus"
+	},
+	{
+		"abr": "psytrainer(flameball)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Flameball"
+	},
+	{
+		"abr": "psytrainer(flashstorm)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Flashstorm"
+	},
+	{
+		"abr": "psytrainer(focus)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Focus"
+	},
+	{
+		"abr": "psytrainer(frostray)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_FrostRay"
+	},
+	{
+		"abr": "psytrainer(ghostwalk)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Ghostwalk"
+	},
+	{
+		"abr": "psytrainer(grouplink)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_GroupLink"
+	},
+	{
+		"abr": "psytrainer(guardianskipbarrier)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_GuardianSkipbarrier"
+	},
+	{
+		"abr": "psytrainer(guidedshot)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_GuidedShot"
+	},
+	{
+		"abr": "psytrainer(haywire)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Haywire"
+	},
+	{
+		"abr": "psytrainer(healthswap)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_HealthSwap"
+	},
+	{
+		"abr": "psytrainer(heatfocus)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_HeatFocus"
+	},
+	{
+		"abr": "psytrainer(hurricane)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Hurricane"
+	},
+	{
+		"abr": "psytrainer(iceblock)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IceBlock"
+	},
+	{
+		"abr": "psytrainer(icecrystal)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IceCrystal"
+	},
+	{
+		"abr": "psytrainer(iceshield)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IceShield"
+	},
+	{
+		"abr": "psytrainer(icespike)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IceSpike"
+	},
+	{
+		"abr": "psytrainer(icewall)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IceWall"
+	},
+	{
+		"abr": "psytrainer(intensifyshadows)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IntensifyShadows"
+	},
+	{
+		"abr": "psytrainer(invisibility)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Invisibility"
+	},
+	{
+		"abr": "psytrainer(killskip)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Killskip"
+	},
+	{
+		"abr": "psytrainer(liferot)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Liferot"
+	},
+	{
+		"abr": "psytrainer(locationswap)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_LocationSwap"
+	},
+	{
+		"abr": "psytrainer(lucktransfer)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_LuckTransfer"
+	},
+	{
+		"abr": "psytrainer(manhunterpulse)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ManhunterPulse"
+	},
+	{
+		"abr": "psytrainer(massbeckon)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_MassBeckon"
+	},
+	{
+		"abr": "psytrainer(masschaosskip)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_MassChaosSkip"
+	},
+	{
+		"abr": "psytrainer(masshallucination)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_MassHallucination"
+	},
+	{
+		"abr": "psytrainer(mend)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Mend"
+	},
+	{
+		"abr": "psytrainer(meteorshower)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_MeteorShower"
+	},
+	{
+		"abr": "psytrainer(mindbreak)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_MindBreak"
+	},
+	{
+		"abr": "psytrainer(mindcontrol)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Mindcontrol"
+	},
+	{
+		"abr": "psytrainer(mindwipe)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_MindWipe"
+	},
+	{
+		"abr": "psytrainer(neuralheatdetonation)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_NeuralHeatDetonation"
+	},
+	{
+		"abr": "psytrainer(neuralheatdump)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_NeuralHeatDump"
+	},
+	{
+		"abr": "psytrainer(neuroquake)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Neuroquake"
+	},
+	{
+		"abr": "psytrainer(nightstep)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Nightstep"
+	},
+	{
+		"abr": "psytrainer(obscure)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Obscure"
+	},
+	{
+		"abr": "psytrainer(overshield)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Overshield"
+	},
+	{
+		"abr": "psytrainer(painblock)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Painblock"
+	},
+	{
+		"abr": "psytrainer(paralysispulse)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ParalysisPulse"
+	},
+	{
+		"abr": "psytrainer(planttimeskip)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_PlantTimeskip"
+	},
+	{
+		"abr": "psytrainer(powerleap)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_PowerLeap"
+	},
+	{
+		"abr": "psytrainer(power)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Power"
+	},
+	{
+		"abr": "psytrainer(psychicdrone)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_PsychicDrone"
+	},
+	{
+		"abr": "psytrainer(psychicguidance)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_PsychicGuidance"
+	},
+	{
+		"abr": "psytrainer(psychicshock)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_PsychicShock"
+	},
+	{
+		"abr": "psytrainer(psychicsooth(female))",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SootheFemale"
+	},
+	{
+		"abr": "psytrainer(psychicsooth(male))",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SootheMale"
+	},
+	{
+		"abr": "psytrainer(raidpause)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_RaidPause"
+	},
+	{
+		"abr": "psytrainer(recharge)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Recharge"
+	},
+	{
+		"abr": "psytrainer(regrowlimbs)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_RegrowLimbs"
+	},
+	{
+		"abr": "psytrainer(resurrect)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Resurrect"
+	},
+	{
+		"abr": "psytrainer(reunionfarskip)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ReunionFarskip"
+	},
+	{
+		"abr": "psytrainer(reverseengineer)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ReverseEngineer"
+	},
+	{
+		"abr": "psytrainer(rockconstruct)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_RockConstruct"
+	},
+	{
+		"abr": "psytrainer(seasontimeskip)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SeasonTimeskip"
+	},
+	{
+		"abr": "psytrainer(selfexplosion)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SelfExplosion"
+	},
+	{
+		"abr": "psytrainer(shadowfocus)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ShadowFocus"
+	},
+	{
+		"abr": "psytrainer(shadowskip)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Shadowskip"
+	},
+	{
+		"abr": "psytrainer(shieldanimals)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ShieldAnimals"
+	},
+	{
+		"abr": "psytrainer(shrineshield)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Shrineshield"
+	},
+	{
+		"abr": "psytrainer(skillroll)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SkillRoll"
+	},
+	{
+		"abr": "psytrainer(skip)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Skip"
+	},
+	{
+		"abr": "psytrainer(skipdoor)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Skipdoor"
+	},
+	{
+		"abr": "psytrainer(skipshield)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Skipshield"
+	},
+	{
+		"abr": "psytrainer(smokepop)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Smokepop"
+	},
+	{
+		"abr": "psytrainer(snapfreeze)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SnapFreeze"
+	},
+	{
+		"abr": "psytrainer(solarpinhole)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SolarPinhole"
+	},
+	{
+		"abr": "psytrainer(speedboost)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SpeedBoost"
+	},
+	{
+		"abr": "psytrainer(stabilize)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Stabilize"
+	},
+	{
+		"abr": "psytrainer(staticaura)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_StaticAura"
+	},
+	{
+		"abr": "psytrainer(staticpulse)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_StaticPulse"
+	},
+	{
+		"abr": "psytrainer(stealvitality)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_StealVitality"
+	},
+	{
+		"abr": "psytrainer(steelconstruct)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SteelConstruct"
+	},
+	{
+		"abr": "psytrainer(stun)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Stun"
+	},
+	{
+		"abr": "psytrainer(summonpack)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SummonPack"
+	},
+	{
+		"abr": "psytrainer(thunderbolt)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Thunderbolt"
+	},
+	{
+		"abr": "psytrainer(timereversal)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_TimeReversal"
+	},
+	{
+		"abr": "psytrainer(timesphere)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_TimeSphere"
+	},
+	{
+		"abr": "psytrainer(timequake)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Timequake"
+	},
+	{
+		"abr": "psytrainer(timeskipmeditation)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_TimeskipMeditation"
+	},
+	{
+		"abr": "psytrainer(transmutation)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Transmutation"
+	},
+	{
+		"abr": "psytrainer(transmutestone)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_TransmuteStone"
+	},
+	{
+		"abr": "psytrainer(treesprout)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_TreeSprout"
+	},
+	{
+		"abr": "psytrainer(vortex)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Vortex"
+	},
+	{
+		"abr": "psytrainer(wallraise)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Wallraise"
+	},
+	{
+		"abr": "psytrainer(waterskip)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Waterskip"
+	},
+	{
+		"abr": "psytrainer(wordofalliance)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofAlliance"
+	},
+	{
+		"abr": "psytrainer(wordofanimals)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofAnimals"
+	},
+	{
+		"abr": "psytrainer(wordoffear)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofFear"
+	},
+	{
+		"abr": "psytrainer(wordofforetelling)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofForetelling"
+	},
+	{
+		"abr": "psytrainer(wordofhealing)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofHealing"
+	},
+	{
+		"abr": "psytrainer(wordofimmunity)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofImmunity"
+	},
+	{
+		"abr": "psytrainer(wordofinspiration)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofInspiration"
+	},
+	{
+		"abr": "psytrainer(wordofjoy)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofJoy"
+	},
+	{
+		"abr": "psytrainer(wordoflove)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofLove"
+	},
+	{
+		"abr": "psytrainer(wordofpain)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofPain"
+	},
+	{
+		"abr": "psytrainer(wordofproductivity)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofProductivity"
+	},
+	{
+		"abr": "psytrainer(wordofprogress)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofProgress"
+	},
+	{
+		"abr": "psytrainer(wordofprotection)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofProtection"
+	},
+	{
+		"abr": "psytrainer(wordofserenity)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofSerenity"
+	},
+	{
+		"abr": "psytrainer(wordoftrust)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofTrust"
+	},
+	{
+		"abr": "pulserifle",
+		"price": 3833,
+		"category": "Ranged weapons",
+		"defname": "XFMParmor_PulseRifle"
+	},
+	{
+		"abr": "r.i.f.t.fabricator",
+		"price": 98183,
+		"category": "Production",
+		"defname": "Table_SNS_CosmicCall"
+	},
+	{
+		"abr": "rapidscarhealerimplant",
+		"price": 41667,
+		"category": "Hedonism implants",
+		"defname": "RapidScarHealerImplant"
+	},
+	{
+		"abr": "reductor",
+		"price": 1475,
+		"category": "Ranged weapons",
+		"defname": "BEWH_Reductor"
+	},
+	{
+		"abr": "reflectivehappinessimplant",
+		"price": 2500,
+		"category": "Hedonism implants",
+		"defname": "ReflectiveHappinessImplant"
+	},
+	{
+		"abr": "remotedominator",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "RemoteDominator"
+	},
+	{
+		"abr": "remoteresurrector",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "RemoteResurrector"
+	},
+	{
+		"abr": "repulsorfieldgenerator",
+		"price": 1008,
+		"category": "Utility",
+		"defname": "XFMParmor_AntiMParmor_ShieldSpawner"
+	},
+	{
+		"abr": "respirationimplant",
+		"price": 3000,
+		"category": "Cybernetics",
+		"defname": "BEWH_RespirationImplant"
+	},
+	{
+		"abr": "retributiveimpaler",
+		"price": 858,
+		"category": "Bionic",
+		"defname": "DefensiveImpaler"
+	},
+	{
+		"abr": "rockconstruct",
+		"price": 250,
+		"category": "Animals",
+		"defname": "VPE_RockConstruct"
+	},
+	{
+		"abr": "scarhealerimplant",
+		"price": 8333,
+		"category": "Hedonism implants",
+		"defname": "ScarHealerImplant"
+	},
+	{
+		"abr": "servo-arm",
+		"price": 5833,
+		"category": "Cybernetics",
+		"defname": "BEWH_ServoArm"
+	},
+	{
+		"abr": "shoulderchargeturret",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "LTS_ShoulderChargeTurret"
+	},
+	{
+		"abr": "shouldermortar",
+		"price": 2275,
+		"category": "Bionic",
+		"defname": "LTS_ShoulderMortar"
+	},
+	{
+		"abr": "shoulderrocketpod",
+		"price": 2275,
+		"category": "Bionic",
+		"defname": "LTS_ShoulderRocketPod"
+	},
+	{
+		"abr": "shoulderturret",
+		"price": 708,
+		"category": "Prosthetic",
+		"defname": "LTS_ShoulderTurret"
+	},
+	{
+		"abr": "signalbooster(high)",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "SignalBoosterHigh"
+	},
+	{
+		"abr": "signalbooster(standard)",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "SignalBooster"
+	},
+	{
+		"abr": "signalbooster(ultra)",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "SignalBoosterUltra"
+	},
+	{
+		"abr": "simplehappinessimplant",
+		"price": 833,
+		"category": "Hedonism implants",
+		"defname": "SimpleHappinessImplant"
+	},
+	{
+		"abr": "skeletalbracing",
+		"price": 833,
+		"category": "Prosthetic",
+		"defname": "SkeletalBracing"
+	},
+	{
+		"abr": "skeleton",
+		"price": 250,
+		"category": "Animals",
+		"defname": "VPE_SummonedSkeleton"
+	},
+	{
+		"abr": "slayer'scollar",
+		"price": 875,
+		"category": "Bionic",
+		"defname": "SlayersCollar"
+	},
+	{
+		"abr": "smalldoormat",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "Alias_DoorMatSmall"
+	},
+	{
+		"abr": "spine",
+		"price": 1250,
+		"category": "Natural",
+		"defname": "Spine"
+	},
+	{
+		"abr": "stablematter",
+		"price": 8333,
+		"category": "Raw resources",
+		"defname": "SNS_StableMatter"
+	},
+	{
+		"abr": "stalkerskull",
+		"price": 1367,
+		"category": "Ghoul",
+		"defname": "StalkerSkull"
+	},
+	{
+		"abr": "starsteel",
+		"price": 83,
+		"category": "Raw resources",
+		"defname": "SNS_Unobtainium"
+	},
+	{
+		"abr": "starsteelhelmet",
+		"price": 4117,
+		"category": "Headgear",
+		"defname": "SNS_Apparel_CosmicAlloyHelmet"
+	},
+	{
+		"abr": "starsteelplatearmor",
+		"price": 23883,
+		"category": "Armor",
+		"defname": "SNS_Apparel_CosmicAlloyPlateArmor"
+	},
+	{
+		"abr": "starsteelwool",
+		"price": 42,
+		"category": "Manufactured",
+		"defname": "SNS_Unobtainium_Fiber"
+	},
+	{
+		"abr": "steelconstruct",
+		"price": 250,
+		"category": "Animals",
+		"defname": "VPE_SteelConstruct"
+	},
+	{
+		"abr": "stellararm",
+		"price": 4367,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicArm_GenI"
+	},
+	{
+		"abr": "stellarbionicforge",
+		"price": 3283,
+		"category": "Production",
+		"defname": "Table_SNS_BionicCraftingStation_GenI"
+	},
+	{
+		"abr": "stellarcomputer",
+		"price": 16500,
+		"category": "Recreation",
+		"defname": "SNS_Computer_GenI"
+	},
+	{
+		"abr": "stellardigestivesystem",
+		"price": 2367,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicStomach_GenI"
+	},
+	{
+		"abr": "stellarear",
+		"price": 3033,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicEar_GenI"
+	},
+	{
+		"abr": "stellareye",
+		"price": 3033,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicEye_GenI"
+	},
+	{
+		"abr": "stellarheadshroud",
+		"price": 1950,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicHead_GenI"
+	},
+	{
+		"abr": "stellarheart",
+		"price": 2033,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicHeart_GenI"
+	},
+	{
+		"abr": "stellarjaw",
+		"price": 1950,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicJaw_GenI"
+	},
+	{
+		"abr": "stellarkidney",
+		"price": 1700,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicKidney_GenI"
+	},
+	{
+		"abr": "stellarleg",
+		"price": 4367,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicLeg_GenI"
+	},
+	{
+		"abr": "stellarliver",
+		"price": 2367,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicLiver_GenI"
+	},
+	{
+		"abr": "stellarlung",
+		"price": 2367,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicLung_GenI"
+	},
+	{
+		"abr": "stellarmedicine",
+		"price": 583,
+		"category": "Medicine",
+		"defname": "SNS_Medicine_GenI"
+	},
+	{
+		"abr": "stellarneckshroud",
+		"price": 1950,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicNeck_GenI"
+	},
+	{
+		"abr": "stellarneuralenchanter",
+		"price": 4700,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicBrain_GenI"
+	},
+	{
+		"abr": "stellarnose",
+		"price": 3033,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicNose_GenI"
+	},
+	{
+		"abr": "stellarpistol",
+		"price": 2417,
+		"category": "Ranged weapons",
+		"defname": "SNS_Pistol_GenI"
+	},
+	{
+		"abr": "stellarrifle",
+		"price": 5117,
+		"category": "Ranged weapons",
+		"defname": "SNS_Rifle_GenI"
+	},
+	{
+		"abr": "stellarshotgun",
+		"price": 3775,
+		"category": "Ranged weapons",
+		"defname": "SNS_Shotgun_GenI"
+	},
+	{
+		"abr": "stellarsniper",
+		"price": 6475,
+		"category": "Ranged weapons",
+		"defname": "SNS_Sniper_GenI"
+	},
+	{
+		"abr": "stellarspine",
+		"price": 3950,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicSpine_GenI"
+	},
+	{
+		"abr": "stellartorsoshroud",
+		"price": 1950,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicTorso_GenI"
+	},
+	{
+		"abr": "stim-iv",
+		"price": 117,
+		"category": "Drugs",
+		"defname": "SNS_Stim_I"
+	},
+	{
+		"abr": "stim-vii",
+		"price": 533,
+		"category": "Drugs",
+		"defname": "SNS_Stim_II"
+	},
+	{
+		"abr": "stim-x",
+		"price": 833,
+		"category": "Drugs",
+		"defname": "SNS_Stim_III"
+	},
+	{
+		"abr": "stomach",
+		"price": 583,
+		"category": "Natural",
+		"defname": "Stomach"
+	},
+	{
+		"abr": "strengthenhancer",
+		"price": 1383,
+		"category": "Bionic",
+		"defname": "StrengthEnhancer"
+	},
+	{
+		"abr": "subdermalarmour",
+		"price": 3758,
+		"category": "Bionic",
+		"defname": "LTS_SubdermalArmour"
+	},
+	{
+		"abr": "synthmarrow",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "Synthmarrow"
+	},
+	{
+		"abr": "synthmuscle",
+		"price": 4333,
+		"category": "Cybernetics",
+		"defname": "BEWH_Synthmuscle"
+	},
+	{
+		"abr": "temporaltelescope",
+		"price": 38542,
+		"category": "Recreation",
+		"defname": "SNS_Telescope_GenII"
+	},
+	{
+		"abr": "theb.e.h.o.l.d.e.r.",
+		"price": 8333334,
+		"category": "Ranged weapons",
+		"defname": "SNS_BeholderGun"
+	},
+	{
+		"abr": "theexarch",
+		"price": 422717,
+		"category": "Ranged weapons",
+		"defname": "SNS_EterniumLance"
+	},
+	{
+		"abr": "ther.e.c.u.r.s.i.o.n.",
+		"price": 8333334,
+		"category": "Melee weapons",
+		"defname": "SNS_RecursionMelee"
+	},
+	{
+		"abr": "thet.e.r.m.i.n.u.s.",
+		"price": 8333334,
+		"category": "Ranged weapons",
+		"defname": "SNS_TerminusGun"
+	},
+	{
+		"abr": "theutopiadevice",
+		"price": 1303392,
+		"category": "Production",
+		"defname": "Table_SNS_PinnacleFabricator"
+	},
+	{
+		"abr": "thermoblade",
+		"price": 4167,
+		"category": "Melee weapons",
+		"defname": "XFMParmor_ThermoBlade"
+	},
+	{
+		"abr": "undeadheart",
+		"price": 18333,
+		"category": "Cybernetics",
+		"defname": "BEWH_UndeadHeart"
+	},
+	{
+		"abr": "utilitymechadendrite",
+		"price": 4167,
+		"category": "Cybernetics",
+		"defname": "BEWH_UtilityMechadendrite"
+	},
+	{
+		"abr": "vanguardaccelerator",
+		"price": 2608,
+		"category": "Bionic",
+		"defname": "LTS_Vanguard"
+	},
+	{
+		"abr": "vanometricstomach",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechVanometricStomach"
+	},
+	{
+		"abr": "venomtail",
+		"price": 2275,
+		"category": "Bionic",
+		"defname": "LTS_ScorpionTail"
+	},
+	{
+		"abr": "vitalitycoreimplant",
+		"price": 25000,
+		"category": "X-tier implants",
+		"defname": "II_VitalityCore_Implant"
+	},
+	{
+		"abr": "voicelock",
+		"price": 342,
+		"category": "Prosthetic",
+		"defname": "LTS_Voicelock"
+	},
+	{
+		"abr": "voidlink",
+		"price": 875,
+		"category": "Bionic",
+		"defname": "LTS_Voidlink"
+	},
+	{
+		"abr": "warprogrammerinterface",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "WarprogrammerInterface"
+	},
+	{
+		"abr": "warriorgeneralistimplant",
+		"price": 10000,
+		"category": "Military implants",
+		"defname": "WarriorGeneralistImplant"
+	},
+	{
+		"abr": "wastetiercoolingimplant",
+		"price": 133,
+		"category": "Waste-tier implants",
+		"defname": "WasteTierCoolingImplant"
+	},
+	{
+		"abr": "wastetierhealingimplant",
+		"price": 200,
+		"category": "Waste-tier implants",
+		"defname": "WasteTierHealingImplant"
+	},
+	{
+		"abr": "wastetierheaterimplant",
+		"price": 83,
+		"category": "Waste-tier implants",
+		"defname": "WasteTierHeaterImplant"
+	},
+	{
+		"abr": "wastetierimmunityimplant",
+		"price": 200,
+		"category": "Waste-tier implants",
+		"defname": "WasteTierImmunityImplant"
+	},
+	{
+		"abr": "wastetierlatticeimplant",
+		"price": 83,
+		"category": "Waste-tier implants",
+		"defname": "WasteTierLatticeImplant"
+	},
+	{
+		"abr": "wastetiermeleeimplant",
+		"price": 250,
+		"category": "Waste-tier implants",
+		"defname": "WasteTierMeleeImplant"
+	},
+	{
+		"abr": "wastetiershootingimplant",
+		"price": 300,
+		"category": "Waste-tier implants",
+		"defname": "WasteTierShootingImplant"
+	},
+	{
+		"abr": "x-latticeimplant",
+		"price": 2500,
+		"category": "X-tier implants",
+		"defname": "II_XLattice_Implant"
+	},
+	{
+		"abr": "x-meleecore",
+		"price": -10,
+		"category": "X-tier implants",
+		"defname": "II_XMeleeCore_Implant"
+	},
+	{
+		"abr": "x-shieldimplantt1",
+		"price": 50000,
+		"category": "X-tier implants",
+		"defname": "II_XShieldT1_Implant"
+	},
+	{
+		"abr": "x-shieldimplantt11(experimental)",
+		"price": 25000,
+		"category": "X-tier implants",
+		"defname": "II_XShieldT11_Implant"
+	},
+	{
+		"abr": "x-shieldimplantt2",
+		"price": 2500,
+		"category": "X-tier implants",
+		"defname": "II_XShieldT2_Implant"
+	},
+	{
+		"abr": "x-shieldimplantt3",
+		"price": 2500,
+		"category": "X-tier implants",
+		"defname": "II_XShieldT3_Implant"
+	},
+	{
+		"abr": "x-shieldimplantt4",
+		"price": 2500,
+		"category": "X-tier implants",
+		"defname": "II_XShieldT4_Implant"
+	},
+	{
+		"abr": "x-shieldimplantt5",
+		"price": 2500,
+		"category": "X-tier implants",
+		"defname": "II_XShieldT5_Implant"
+	},
+	{
+		"abr": "x-speedmeleecore",
+		"price": 200000,
+		"category": "X-tier implants",
+		"defname": "II_XSpeedMeleeCore_Implant"
+	},
+	{
+		"abr": "zenitharm",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicArm_GenIV"
+	},
+	{
+		"abr": "zenithdigestivesystem",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicStomach_GenIV"
+	},
+	{
+		"abr": "zenithear",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicEar_GenIV"
+	},
+	{
+		"abr": "zenitheye",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicEye_GenIV"
+	},
+	{
+		"abr": "zenithheadshroud",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicHead_GenIV"
+	},
+	{
+		"abr": "zenithheart",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicHeart_GenIV"
+	},
+	{
+		"abr": "zenithjaw",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicJaw_GenIV"
+	},
+	{
+		"abr": "zenithkidney",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicKidney_GenIV"
+	},
+	{
+		"abr": "zenithleg",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicLeg_GenIV"
+	},
+	{
+		"abr": "zenithliver",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicLiver_GenIV"
+	},
+	{
+		"abr": "zenithlung",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicLung_GenIV"
+	},
+	{
+		"abr": "zenithneckshroud",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicNeck_GenIV"
+	},
+	{
+		"abr": "zenithneuralenchantment",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicBrain_GenIV"
+	},
+	{
+		"abr": "zenithnose",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicNose_GenIV"
+	},
+	{
+		"abr": "zenithspine",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicSpine_GenIV"
+	},
+	{
+		"abr": "zenithtorsoshroud",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicTorso_GenIV"
+	},
+	{
+		"abr": "zeushammer",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "zombrella",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "Zombrella"
+	}
 	],
-	"total": 1780
+	"total": 1942
 }
